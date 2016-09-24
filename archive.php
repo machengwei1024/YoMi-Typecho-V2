@@ -19,10 +19,13 @@
 				<section class="index-block-main">
 					<?php $this->excerpt(130, ' ...'); ?>
 				</section>
-				<footer class="index-block-footer">
+				<footer class="index-block-footerView">
 					<a class="fa fa-user" href="">&nbsp;Weic</a> <span>|</span>
 					<a class="fa fa-tags" href="">&nbsp;<?php $this->tags(',', true, '没有标签'); ?></a> <span>|</span>
 					<a class="fa fa-folder-open" href="">&nbsp;<?php _e(''); ?><?php $this->category(','); ?></a> <span>|</span>
+					<time class="fa fa-calendar" datetime="<?php $this->date('c'); ?>">&nbsp;<?php $this->date('F j, Y'); ?></time>
+				</footer>
+				<footer class="index-block-footerHidden">
 					<time class="fa fa-calendar" datetime="<?php $this->date('c'); ?>">&nbsp;<?php $this->date('F j, Y'); ?></time>
 				</footer>
 			</article>
