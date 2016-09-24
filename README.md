@@ -63,4 +63,4 @@ InstantClick.init();
 
 ## License
 
-[MIT](https://git.oschina.net/weic96/YoMi-Typecho-V2/blob/master/LICENSE?dir=0&filepath=LICENSE&oid=d9854a60936634c9ad8c6b97cd10e3986ef1f511&sha=aeb5a898ff50c028aebf380dcad9dcecfa352e7f
+[MIT](https://git.oschina.net/weic96/YoMi-Typecho-V2/blob/master/LICENSE?dir=0&filepath=LICENSE&oid=d9854a60936634c9ad8c6b97cd10e3986ef1f511&sha=aeb5a898ff50c028aebf380dcad9dcecfa352e7f)
