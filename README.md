@@ -8,14 +8,6 @@ Yomi-Typecho-V2是Yomi-Typecho-V1的重构版，使其更简洁，体验更好�
 ![](http://dl.weic96.cn/YoMi-Typecho/yomi-typecho-v2-pic1.png)
 
 
-
-
-## 版本
-
-|           | V1 | V1 |
-|-----------|---------|
-| 最新版本 | V1.2  | V2.0 |
-
 ## 安装
 
 ```bash
@@ -71,4 +63,4 @@ InstantClick.init();
 
 ## License
 
-[MIT](LICENSE.txt)
+[MIT](https://git.oschina.net/weic96/YoMi-Typecho-V2/blob/master/LICENSE?dir=0&filepath=LICENSE&oid=d9854a60936634c9ad8c6b97cd10e3986ef1f511&sha=aeb5a898ff50c028aebf380dcad9dcecfa352e7f
